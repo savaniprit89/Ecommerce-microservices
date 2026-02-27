@@ -70,6 +70,3 @@ mvn -pl payment-service spring-boot:run
 mvn -pl notification-service spring-boot:run
 mvn -pl api-gateway spring-boot:run
 ```
-
-
-Meet Ajudiya
