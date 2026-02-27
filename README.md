@@ -40,8 +40,6 @@ This flow demonstrates event-driven orchestration across services.
 * Spring Data JPA
 * Maven
 
-The project is designed to be containerized and deployed to AWS ECS.
-
 ## Running Locally
 
 ### Prerequisites
